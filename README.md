@@ -91,7 +91,7 @@ From the analysis, several general insights emerged:
 
 2. **Skills for Top-Paying Jobs:** High-paying data analyst jobs require advanced proficiency in SQL, suggesting it's a critical skill for earning a top salary.
 
-3. **Most In-Demand Skills:** SQL is also the most demanded skill in the data analyst job market, thus making it essential for job seekers.
+3. **Most In-Demand Skills:** SQL is also the most demanded skill in the data analyst job market,thus making it essential for job seekers.
 
 4. **Skills with Higher Salaries:** Specialized skills, such as SVN and Solidity, are associated with the highest average salaries, indicating a premium on niche expertise.
 
